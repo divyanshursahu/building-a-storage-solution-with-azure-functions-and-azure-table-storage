@@ -1,0 +1,1 @@
+# building-a-storage-solution-with-azure-functions-and-azure-table-storage
